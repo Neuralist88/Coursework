@@ -1,4 +1,4 @@
 __pycache__/
 data/
-neon-connect.py/
-st-test.py/
+/neon-connect.py
+/st-test.py
